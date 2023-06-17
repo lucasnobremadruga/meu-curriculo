@@ -1,4 +1,4 @@
-# Olá, Seja Bem Vindo(a) ao Meu Curriculo
+# Olá, Seja Bem Vindo(a) ao Meu Curriculo :)
 > :construction: Projeto em construção :construction:
 
 > Para ter acesso ao meu site, basta [clicar aqui](https://www.lucasnobremadruga.dev.br)
